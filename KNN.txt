@@ -1,0 +1,10 @@
+KNN: K-NEAREST NEIGHBOUR ALGORITHM WORKS ON HOW TO RUN k-nearest neighbour in R.it is one of most widely used
+ algorith for classification problem
+
+Knn is a non-parametric supervised learning technique in which we try to classify the data point to a given category with the help of training set. In simple words, it captures information of all training cases and classifies new cases based on a similarity.
+
+Predictions are made for a new instance (x) by searching through the entire training set for the K most similar cases (neighbors) and summarizing the output variable for those K cases. In classification this is the mode (or most common) class value.
+
+if we have less no of observations we will get lesser no of accuracy like in regression
+
+KNN: it searches for the nearest parameters like atttributes similiar in table
